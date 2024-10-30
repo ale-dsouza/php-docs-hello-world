@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello World";
-echo "Site 2";
+echo "AMANDA EU TE AMO MUITO!!!";
+echo "CASA COMIGO S2";
